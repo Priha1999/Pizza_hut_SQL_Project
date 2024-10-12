@@ -16,9 +16,11 @@ Basic Level:
 
    ![2SQL](https://github.com/user-attachments/assets/50654ca3-299d-49bd-8f0a-5af2f7fc1107)
 
-4. Identify the highest-priced pizza and the most common pizza size ordered.
+3. Identify the highest-priced pizza and the most common pizza size ordered.
 
-5. List the top 5 most ordered pizza types along with their quantities.
+   ![3SQL](https://github.com/user-attachments/assets/c52720ef-7c9a-40ec-8ad4-95e3017f5e6a)
+
+4. List the top 5 most ordered pizza types along with their quantities.
 
 Intermediate Level:
 
