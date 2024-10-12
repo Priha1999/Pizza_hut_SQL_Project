@@ -3,6 +3,9 @@ Pizza Hut SQL Project
 
 This project involves a comprehensive analysis of Pizza Hut sales data using SQL. The analysis is divided into three levels: Basic, Intermediate, and Advanced, each focusing on different metrics and insights.
 
+![Screenshot (38)](https://github.com/user-attachments/assets/45f631e7-36de-474b-962b-2c755f53f7fa)
+
+
 Basic Level:
 
 1. Retrieve the total number of orders placed.
