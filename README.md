@@ -22,6 +22,8 @@ Basic Level:
 
 4. List the top 5 most ordered pizza types along with their quantities.
 
+   ![4SQL](https://github.com/user-attachments/assets/b79ba424-e105-4d0e-ae48-e2ca2f08a151)
+
 Intermediate Level:
 
 5. Join tables to find total quantities of each pizza category ordered.
