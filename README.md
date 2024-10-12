@@ -10,11 +10,13 @@ Basic Level:
 
 1. Retrieve the total number of orders placed.
 
-2. Calculate total revenue generated from pizza sales.
+   ![1SQL](https://github.com/user-attachments/assets/79c232bc-6bb2-40ac-a680-3d6b626355cd)
 
-3. Identify the highest-priced pizza and the most common pizza size ordered.
+3. Calculate total revenue generated from pizza sales.
 
-4. List the top 5 most ordered pizza types along with their quantities.
+4. Identify the highest-priced pizza and the most common pizza size ordered.
+
+5. List the top 5 most ordered pizza types along with their quantities.
 
 Intermediate Level:
 
