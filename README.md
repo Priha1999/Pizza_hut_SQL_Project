@@ -12,7 +12,9 @@ Basic Level:
 
    ![1SQL](https://github.com/user-attachments/assets/79c232bc-6bb2-40ac-a680-3d6b626355cd)
 
-3. Calculate total revenue generated from pizza sales.
+2. Calculate total revenue generated from pizza sales.
+
+   ![2SQL](https://github.com/user-attachments/assets/50654ca3-299d-49bd-8f0a-5af2f7fc1107)
 
 4. Identify the highest-priced pizza and the most common pizza size ordered.
 
